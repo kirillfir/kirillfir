@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Kirill</h1>
+<h1 align="center">Hi 👋, I'm kirillfir</h1>
 <h3 align="center">Backend / Full-Stack Developer • CS Student</h3>
+
+<p align="center">
+  <img src="https://media3.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" width="100%" alt="Animated banner" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;CS+Student+%40+University+of+Nicosia;Building+AI+Bots+and+Games" />
