@@ -2,7 +2,7 @@
 <h3 align="center">Backend / Full-Stack Developer • CS Student</h3>
 
 <p align="center">
-  <img src="https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:NyanCat.gif" width="100%" alt="Animated banner" />
+  <img src="https://www.pinterest.com/harulynm/anime-gifs/" width="100%" alt="Animated banner" />
 </p>
 
 
