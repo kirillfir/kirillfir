@@ -2,7 +2,7 @@
 <h3 align="center">Backend / Full-Stack Developer • CS Student</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/77/f9/0d/77f90defcad196bbb3d8bb9bc2345284.gif" width="100%" alt="Animated banner" />
+  <img src="https://taeluralexis.com/wp-content/uploads/2023/04/uqohmvsr0ilxd9wfb8bi.gif" width="100%" alt="Animated banner" />
 </p>
 
 
