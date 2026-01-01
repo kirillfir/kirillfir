@@ -2,7 +2,7 @@
 <h3 align="center">Backend / Full-Stack Developer • CS Student</h3>
 
 <p align="center">
-  <img src="https://media3.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" width="100%" alt="Animated banner" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDEyZzZwOXQ2aWF6YjRzdGlwcXZsNG5ibnhnNTk3MWxhMmg1Y3FzMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" alt="Animated banner" />
 </p>
 
 
