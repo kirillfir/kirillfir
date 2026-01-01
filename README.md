@@ -34,10 +34,14 @@
 ### 🌐 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin" style="margin-right: 15px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" style="margin-left: 20px;" />
   </a>
   <a href="mailto:kirillmerlin68@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+</a>
+<a href="@KotikNevrotic"
+  <img src="https://i2crm-kb.s3.eu-central-1.amazonaws.com/main/vnS7VguYph2JcbQ6Telegram.svg"/>
+</a>
 </p>
 
