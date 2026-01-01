@@ -33,15 +33,17 @@
 
 ### 🌐 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin" style="margin-left: 20px;" />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" style="margin-right: 16px;" />
   </a>
+
   <a href="mailto:kirillmerlin68@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" style="margin-right: 16px;" />
   </a>
-</a>
-<a href="@KotikNevrotic"
-  <img src="https://i2crm-kb.s3.eu-central-1.amazonaws.com/main/vnS7VguYph2JcbQ6Telegram.svg"/>
-</a>
+
+  <a href="https://t.me/KotikNevrotic" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="48" height="48" />
+  </a>
 </p>
+
 
