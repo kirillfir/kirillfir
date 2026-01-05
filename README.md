@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;CS+Student+%40+University+of+Nicosia;Building+AI+Bots+and+Games" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Indie+ developer;Backend+Developer;CS+Student+%40+University+of+Nicosia;Building+AI+Bots+and+Games" />
 </p>
 
 ---
