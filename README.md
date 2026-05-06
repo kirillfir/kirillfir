@@ -39,7 +39,7 @@
 
 ### 🌐 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/kirill-kuznetsov/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" style="margin-right: 16px;" />
   </a>
 
